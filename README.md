@@ -13,4 +13,5 @@ Visit **[here](https://ethereal-expansion-d0a.notion.site/Math-0c642e978f2a48338
 - **GCD & LCM**
 - **Combinatorics *(Factorials, Binomial Coefficients, Counting etc.)***
 - **Modular Arithmetic (a.k.a. $\bmod 10^9 + 7$)**
+- **Binary Exponentiation**
 - **Additional Tips & Tricks**
