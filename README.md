@@ -18,6 +18,6 @@ Visit **[here](https://ethereal-expansion-d0a.notion.site/Math-0c642e978f2a48338
 
 ## QR Code *(for fun :P)*
 
-<p align="center" width="100%">
-  <img width="50%" src="https://i.ibb.co/2Ym5M4d/bit-ly-notion-math-notes.png" alt="QR Code">
-</p>
+<div align=center width="100%">
+  <img width="33%" src="https://i.ibb.co/2Ym5M4d/bit-ly-notion-math-notes.png" alt="QR Code">
+</div>
