@@ -15,3 +15,9 @@ Visit **[here](https://ethereal-expansion-d0a.notion.site/Math-0c642e978f2a48338
 - **Modular Arithmetic (a.k.a. $\bmod 10^9 + 7$)**
 - **Binary Exponentiation**
 - **Additional Tips & Tricks**
+
+## QR Code *(for fun :P)*
+
+<p align="center" width="100%">
+  <img width="50%" src="https://i.ibb.co/2Ym5M4d/bit-ly-notion-math-notes.png" alt="QR Code">
+</p>
